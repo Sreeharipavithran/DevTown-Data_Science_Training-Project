@@ -57,9 +57,9 @@ jupyter notebook
 ## 📁 Repository Structure
 
 ```
-├── Invisitico-Airline Customer Satisfaction Classific...ipynb
+├── Invistico-Airline Customer Satisfaction Classification ML Model Using RandomForest.ipynb
 ├── Invisitico_Airline.csv
-├── Movie Review Sentimental Analysis - Naive Bay...ipynb
+├── Movie Review Sentimental Analysis - Naive Bayes.ipynb
 └── README.md
 ```
 
@@ -67,5 +67,5 @@ jupyter notebook
 
 ## 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/sreeharipavithran30/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Sreeharipavithran)
